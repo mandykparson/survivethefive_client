@@ -1,4 +1,23 @@
 .homepage {
     flex: 1;
-    padding: 2em;
+    background-color: var(--accent-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.homepageTitle {
+    padding: 0;
+}
+.homepageButtonBox {
+    display: flex;
+}
+
+select{
+    margin: 2em;
+    padding: 1em;
+    background-color: var(--header-text);
+    color: white;
+    border-radius: 2em;
 }
