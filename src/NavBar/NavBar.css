@@ -5,7 +5,7 @@
     display: flex;
     align-items: baseline;
     justify-content: space-between;
-    border-bottom: .2em solid var(--accent-color-two);
+    border-bottom: .4em solid var(--accent-color-two);
     
 }
 

@@ -1,5 +1,5 @@
 .footer {
     flex-shrink: 0;
-    background-color: var(--accent-color);
+    background-color: var(--accent-color-two);
     padding: 1.5em;
 }
