@@ -8,7 +8,6 @@ export default function NavBar() {
             <div className='menu'>
                 <h2>About</h2>
                 <h2>How It Works</h2>
-                <h2>Contributors</h2>
             </div>
         </div>
     )
